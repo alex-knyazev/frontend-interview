@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+  }
+  
+body {
+    height: 100%;
+    width: 100%;
+    font-family: system-ui, sans-serif;
+    background-color: rgb(19, 18, 18);
+
+    height: 2000px;
+
+    color: rgb(4, 144, 4);
+
+    font-size: 16px;
+}
+
+form {
+    margin: 0 auto;
+    top: 20px;;
+    position: sticky;
+    width: max-content;
+}
+
+button {
+    background-color: rgb(19, 18, 18);
+    border-color: rgb(4, 144, 4);
+    color: rgb(4, 144, 4);
+}
+
+img:not([hidden]) {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
