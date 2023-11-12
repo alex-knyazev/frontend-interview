@@ -4,7 +4,6 @@
   
 body {
     height: 100%;
-    width: 100%;
     font-family: system-ui, sans-serif;
     background-color: rgb(19, 18, 18);
 
@@ -17,7 +16,7 @@ body {
 
 form {
     margin: 0 auto;
-    top: 20px;;
+    top: 20px;
     position: sticky;
     width: max-content;
 }
